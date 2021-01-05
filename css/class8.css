@@ -168,7 +168,7 @@ top:0px;
 /* background image start */
 .banner{
 	
-	background:url(image/web.jpeg);
+	background:url(../image/web.jpeg);
 	height:500px;
 	background-position:center;
 	background-repeat:no-repeat;
